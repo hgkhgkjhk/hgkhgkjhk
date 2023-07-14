@@ -1,9 +1,35 @@
-- 👋 Hi, I’m @hgkhgkjhk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hgkhgkjhk/hgkhgkjhk is a ✨ special ✨ repository because its `README.md` (this file) appears on sjsjsjsiaksdjdksjssjsjs.
-You can click the Preview link to take a look
+<html>
+<head>
+<style>
+body {
+ background-color: lightblue;
+}
+table, td, th {
+ border: 1px solid;
+ text-align: center;
+}
+table {
+ width: 100%;
+ border-collapse: collapse;
+ color: blue;
+}
+</style>
+</head>
+<body>
+<center><h2>Horario de clases 6º "Grupo"</h2></center>
+<table>
+ <tr>
+ <th>Horas</th>
+ <th>Lunes</th>
+ </tr>
+  <tr>
+ <td>materia</td>
+ <td>materia</td>
+ </tr>
+ <tr>
+ <td>materia</td>
+ <td>materia</td>
+ </tr>
+</table>
+</body>
+</html>
